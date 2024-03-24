@@ -1,6 +1,6 @@
 # pairbnb
 
-# This project aims to solve a couple of problems one might face when managing rental properties in the 2020's
+# This project aims to manage rental properties like it's the 2020's
 
 - Helps manage rental properties via multiple platforms
 - sync them to a shared calender to reduce toil.
